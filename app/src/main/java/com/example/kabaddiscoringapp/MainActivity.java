@@ -8,8 +8,14 @@ import android.widget.Button;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
-int score_a=0,fouls_a=0,score_b=0,fouls_b=0;
-TextView score_A,fouls_A,score_B,fouls_B;
+int score_a=0;
+int fouls_a=0;
+int score_b=0;
+int fouls_b=0;
+TextView score_A;
+TextView fouls_A;
+TextView score_B;
+TextView fouls_B;
 
 Button one,two,three,four,five,six,seven,teamWipeOut,bonus,foul_A,
         one_B,two_B,three_B,four_B,five_B,six_B,seven_B,teamWipeOutB,bonus_B,foul_B,Reset;
