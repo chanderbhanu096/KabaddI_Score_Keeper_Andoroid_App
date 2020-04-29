@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Kabaddi Scoring App</string>
+    <string name="Heading">Kabaddi Score Keeper</string>
+    <string name="Team_A">Team A</string>
+    <string name="Team_B">Team B</string>
+    <string name="Team_A_Score">Score</string>
+    <string name="Team_B_Score">Score</string>
+    <string name="Team_A_InitialScore">0</string>
+    <string name="Team_B_InitialScore">0</string>
+    <string name="Fouls">Fouls</string>
+    <string name="Fouls_Initially">0</string>
+    <string name="incOne">+1</string>
+    <string name="incTwo">+2</string>
+    <string name="incThree">+3</string>
+    <string name="incFour">+4</string>
+    <string name="incFive">+5</string>
+    <string name="incSix">+6</string>
+    <string name="incSev">+7</string>
+    <string name="bonus">Bonus</string>
+    <string name="teamWipe">Tm.Wipe</string>
+    <string name="Foul">Foul</string>
+    <string name="reset">reset</string>
+</resources>
